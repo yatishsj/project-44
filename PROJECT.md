@@ -1,8 +1,4 @@
-# PRO---44
-
-THE ANSWERS OF PROJECT 44:
-
-⦁	Write the title of your project
+⦁	Write the title of your project.
 
  YATISH's PAC-MAN OR PAC-MAN.
 
